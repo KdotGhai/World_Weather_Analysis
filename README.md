@@ -6,7 +6,7 @@
 ## Deliverable 2
   - [Vacation_Search.ipynb](Vacation_Search/Vacation_Search.ipynb)
   - [Vacation_Search.ipynb](Vacation_Search/WeatherPy_vacation.csv)
-  - ![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png)
+   ![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## Deliverable 3
