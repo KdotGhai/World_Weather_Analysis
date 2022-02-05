@@ -11,3 +11,10 @@
 
 
 ## Deliverable 3
+  - [Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb)
+  - WeatherPy_travel_map.png:
+    ![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
+  - WeatherPy_travel_map_markers_start&end_city.png:
+    ![WeatherPy_travel_map_markers_start&end_city.png](Vacation_Itinerary/WeatherPy_travel_map_markers_start&end_city.png)
+  - WeatherPy_travel_map_markers_waypoints.png:
+    ![WeatherPy_travel_map_markers_waypoints.png](Vacation_Itinerary/WeatherPy_travel_map_markers_waypoints.png)
